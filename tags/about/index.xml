@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on hidoudou</title>
+    <link>http://hidoudou.me/tags/about/</link>
+    <description>Recent content in about on hidoudou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Dec 2019 16:22:21 +0800</lastBuildDate>
+    
+	<atom:link href="http://hidoudou.me/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://hidoudou.me/post/about/</link>
+      <pubDate>Wed, 04 Dec 2019 16:22:21 +0800</pubDate>
+      
+      <guid>http://hidoudou.me/post/about/</guid>
+      <description>About 这个博客的存在可能大部分是关于学习、工作和生活的吧，毕竟人生的大部分光阴都用在这些上了。 由于工作的性质，这里记录的大部分学习和工作的内容，</description>
+    </item>
+    
+  </channel>
+</rss>
