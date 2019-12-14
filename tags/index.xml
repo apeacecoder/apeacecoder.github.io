@@ -29,23 +29,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>about</title>
-      <link>http://hidoudou.me/tags/about/</link>
-      <pubDate>Wed, 04 Dec 2019 16:22:21 +0800</pubDate>
-      
-      <guid>http://hidoudou.me/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>http://hidoudou.me/tags/%E5%85%B3%E4%BA%8E/</link>
-      <pubDate>Wed, 04 Dec 2019 16:22:21 +0800</pubDate>
-      
-      <guid>http://hidoudou.me/tags/%E5%85%B3%E4%BA%8E/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

@@ -58,36 +58,14 @@
   </url>
   
   <url>
-    <loc>http://hidoudou.me/post/about/</loc>
+    <loc>http://hidoudou.me/about/</loc>
     <lastmod>2019-12-04T16:22:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://hidoudou.me/categories/about/</loc>
-    <lastmod>2019-12-04T16:22:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://hidoudou.me/tags/about/</loc>
-    <lastmod>2019-12-04T16:22:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://hidoudou.me/tags/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2019-12-04T16:22:21+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://hidoudou.me/categories/%E6%9D%82/</loc>
-    <lastmod>2019-12-04T16:22:21+08:00</lastmod>
+    <loc>http://hidoudou.me/archives/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

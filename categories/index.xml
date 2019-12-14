@@ -20,23 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>about</title>
-      <link>http://hidoudou.me/categories/about/</link>
-      <pubDate>Wed, 04 Dec 2019 16:22:21 +0800</pubDate>
-      
-      <guid>http://hidoudou.me/categories/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>杂</title>
-      <link>http://hidoudou.me/categories/%E6%9D%82/</link>
-      <pubDate>Wed, 04 Dec 2019 16:22:21 +0800</pubDate>
-      
-      <guid>http://hidoudou.me/categories/%E6%9D%82/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
